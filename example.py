@@ -1,4 +1,4 @@
-from splitter import Splitter
+from Splitter import Splitter
 
 location_target = './Log/error.log'
 location_finish = './Log/log_error'
